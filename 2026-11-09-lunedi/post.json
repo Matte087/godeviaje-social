@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "theme": "lunedi",
+  "themeName": "Evento della settimana",
+  "topic": "Festival Internacional de Cometas",
+  "argomento": "Festival delle comete a Corralejo",
+  "caption": "Dal 9 al 15 novembre 2026, aquiloni giganti colorano le Grandes Playas de Corralejo. Il 39º Festival Internacional de Cometas porta attività di astroscienza e un parco di muñecos gigantes; nelle serate del 13 e 14 novembre, 500 droni illumineranno la baia. L’ingresso è gratuito. Dall’Aeroporto de Fuerteventura puoi prendere la Linea 3 fino a Puerto del Rosario e poi la Linea 6 per Corralejo. Da Lanzarote, il Puerto de Corralejo è collegato con Playa Blanca. Un appuntamento colorato, all’aria aperta, nel nord di Fuerteventura.\n\nFonte: Ayuntamiento de La Oliva, Visit Corralejo, Aena, TIADHE e Puertos Canarios (laoliva.es)\n\nTutte le guide: link in bio\n\n#Fuerteventura #Corralejo #VivereInSpagna #Canarie",
+  "imageKind": "ai",
+  "slides": [
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg"
+  ],
+  "content": {
+    "label": "EVENTO DELLA SETTIMANA",
+    "topic": "Festival Internacional de Cometas",
+    "bgWord": "39",
+    "cover": {
+      "title": "Corralejo si accende con *500 droni*",
+      "subtitle": "La baia si prepara a un appuntamento che tinge il cielo."
+    },
+    "s2": {
+      "title": "Il cielo *si anima*",
+      "body": "Dal *9 al 15 novembre 2026*, aquiloni giganti colorano le *Grandes Playas de Corralejo*. Il 39º Festival Internacional de Cometas porta attività di astroscienza e un parco di muñecos gigantes; la sera del 13 e del 14 novembre, *500 droni* illuminano la baia.",
+      "tear": {
+        "type": "calendario",
+        "title": "Piccole curiosità",
+        "lines": [
+          "2ª edizione del Concurso Kitefestival",
+          "Baños ecológicos sulle spiagge",
+          "Guías ambientales lungo il litorale"
+        ],
+        "hi": 0
+      }
+    },
+    "s3": {
+      "title": "Arrivarci è *facile*",
+      "items": [
+        "Dall’Aeroporto de Fuerteventura, prendi la Linea 3 fino a Puerto del Rosario; da lì, la Linea 6 prosegue per Corralejo.",
+        "Da Lanzarote, il Puerto de Corralejo è collegato con Playa Blanca.",
+        "L’*ingresso è gratuito*: non serve un biglietto."
+      ],
+      "save": "Salva il post per organizzare la tua settimana a Fuerteventura."
+    }
+  }
+}

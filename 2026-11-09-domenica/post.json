@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "theme": "domenica",
+  "themeName": "Errore da evitare",
+  "topic": "Errore da evitare sul lavoro",
+  "argomento": "Pagare per trovare lavoro",
+  "caption": "Una proposta di lavoro può sembrare una scorciatoia, ma non anticipare denaro per farti collocare. In tutta la Spagna, l’artículo 42.4 della Ley 3/2023 de Empleo garantisce la gratuità dell’intermediazione per le persone lavoratrici; la norma è in vigore dal 2 marzo 2023. Cerca annunci su Empléate del SEPE o EURES. Se ti chiedono una quota, fatti indicare per iscritto servizio, importo e destinatario; conserva annuncio e messaggi e segnala la richiesta al Servicio Público de Empleo della tua Comunidad Autónoma. Un piccolo passo per proteggere il budget mentre cerchi lavoro.\n\nFonte: Ley 3/2023, de 28 de febrero, de Empleo — BOE (boe.es)\n\nTutte le guide: link in bio\n\n#LavorareInSpagna #VivereInSpagna #LavoroInSpagna #Godeviaje",
+  "imageKind": "nessuna",
+  "slides": [
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg"
+  ],
+  "content": {
+    "label": "ERRORE DA EVITARE",
+    "topic": "Errore da evitare sul lavoro",
+    "bgWord": "€",
+    "cover": {
+      "title": "Paghi per un lavoro? *Perdi soldi*",
+      "subtitle": "Per l’intermediazione, la legge tutela la gratuità per chi cerca lavoro."
+    },
+    "s2": {
+      "title": "Cosa dice *la legge*",
+      "body": "In tutta la Spagna, l’artículo 42.4 della Ley 3/2023 de Empleo garantisce la gratuità dell’intermediazione per chi cerca lavoro. È in vigore dal 2 marzo 2023. Pagare una quota per essere collocati può farti perdere quei soldi: non confondere l’intermediazione con altri servizi facoltativi.",
+      "tear": {
+        "type": "documento",
+        "title": "Da mettere per iscritto",
+        "lines": [
+          "Nome completo dell’agenzia",
+          "Importo scritto della quota",
+          "Servizio indicato nel preventivo"
+        ],
+        "hi": 1
+      }
+    },
+    "s3": {
+      "title": "Fai questi *passi*",
+      "items": [
+        "Cerca annunci su *Empléate del SEPE* o *EURES*, portali ufficiali per trovare offerte.",
+        "Fatti indicare per iscritto *servizio, importo e destinatario* prima di firmare o pagare.",
+        "Conserva *annuncio e messaggi*; segnala la richiesta al *Servicio Público de Empleo* della tua Comunidad Autónoma."
+      ],
+      "save": "Salva il post per la tua ricerca di lavoro."
+    }
+  }
+}

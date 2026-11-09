@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "theme": "martedi",
+  "themeName": "Burocrazia facile",
+  "topic": "Burocrazia facile",
+  "argomento": "Certificato UE per trasferirsi",
+  "caption": "Se sei cittadino UE e ti trasferisci in Spagna per più di tre mesi, la pratica non è il NIE semplice: è il Certificado de Registro de Ciudadano de la Unión, che include il NIE. La richiesta va presentata entro tre mesi dalla data d’ingresso, con il modello EX-18, all’Oficina de Extranjería oppure alla Comisaría de Policía della provincia. Prenota la cita previa nella Sede Electrónica de Administración Pública. Genera la Tasa modelo 790, código 012 dalla Sede Electrónica de la Policía Nacional: per il certificato l’importo è 12 €.\n\nFonte: Sede Electrónica de la Policía Nacional — Certificado de Registro de Ciudadano de la Unión Europea (sede.policia.gob.es)\n\nTutte le guide: link in bio\n\n#VivereInSpagna #BurocraziaSpagnola #NIE #TrasferirsiInSpagna",
+  "imageKind": "nessuna",
+  "slides": [
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg"
+  ],
+  "content": {
+    "label": "BUROCRAZIA FACILE",
+    "topic": "Burocrazia facile",
+    "bgWord": "NIE",
+    "cover": {
+      "title": "Il *NIE* non è tutta la pratica",
+      "subtitle": "Per cittadini UE che si trasferiscono, il certificato di residenza è il passo giusto."
+    },
+    "s2": {
+      "title": "La *scadenza* vera",
+      "body": "Se sei cittadino UE e prevedi di vivere in Spagna più di tre mesi, chiedi il Certificado de Registro de Ciudadano de la Unión entro tre mesi dalla data d’ingresso in Spagna. Il certificato riporta anche il tuo NIE.",
+      "tear": {
+        "type": "documento",
+        "title": "Da preparare",
+        "lines": [
+          "Documento originale e fotocopia",
+          "Certificato di lavoro o contratto",
+          "Copertura sanitaria e risorse sufficienti"
+        ],
+        "hi": 2
+      }
+    },
+    "s3": {
+      "title": "I passi *giusti*",
+      "items": [
+        "Compila e firma il modello *EX-18*, disponibile sul sito del Ministerio de Inclusión, Seguridad Social y Migraciones.",
+        "Genera la *Tasa modelo 790, código 012* nella Sede Electrónica de la Policía Nacional: per il certificato costa *12 €*.",
+        "Prenota la *cita previa* nella Sede Electrónica de Administración Pública e presenta la domanda all’Oficina de Extranjería o alla Comisaría de Policía."
+      ],
+      "save": "Salva il post per quando prepari la pratica."
+    }
+  }
+}
