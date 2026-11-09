@@ -2,9 +2,9 @@
   "date": "2026-11-09",
   "theme": "domenica",
   "themeName": "Errore da evitare",
-  "topic": "Errore da evitare sul lavoro",
-  "argomento": "Pagare per trovare lavoro",
-  "caption": "Una proposta di lavoro può sembrare una scorciatoia, ma non anticipare denaro per farti collocare. In tutta la Spagna, l’artículo 42.4 della Ley 3/2023 de Empleo garantisce la gratuità dell’intermediazione per le persone lavoratrici; la norma è in vigore dal 2 marzo 2023. Cerca annunci su Empléate del SEPE o EURES. Se ti chiedono una quota, fatti indicare per iscritto servizio, importo e destinatario; conserva annuncio e messaggi e segnala la richiesta al Servicio Público de Empleo della tua Comunidad Autónoma. Un piccolo passo per proteggere il budget mentre cerchi lavoro.\n\nFonte: Ley 3/2023, de 28 de febrero, de Empleo — BOE (boe.es)\n\nTutte le guide: link in bio\n\n#LavorareInSpagna #VivereInSpagna #LavoroInSpagna #Godeviaje",
+  "topic": "CCSE e cittadinanza spagnola",
+  "argomento": "Iscrizione tardiva alla CCSE",
+  "caption": "La CCSE è una delle prove previste per la cittadinanza spagnola per residenza, salvo esenzioni. Il Real Decreto 1004/2015, art. 6, ne definisce anche gli argomenti: 60% Costituzione e organizzazione amministrativa e territoriale, 40% cultura, storia e società spagnole. Per la convocatoria di novembre 2026, le iscrizioni si sono chiuse il 5 novembre e la prova è il 26 novembre. Per il 2027, le iscrizioni aprono il 23 novembre 2026: la sessione di gennaio chiude il 7 gennaio 2027 e si svolge il 28 gennaio. Segnati le date per tempo e prepara la prova con il manuale ufficiale CCSE 2026 dell’Instituto Cervantes.\n\nFonte: Instituto Cervantes, fechas y plazos CCSE 2026-2027 (cervantes.org)\n\nTutte le guide: link in bio\n\n#vivereinSpagna #cittadinanzaspagnola #CCSE #trasferirsiinSpagna",
   "imageKind": "nessuna",
   "slides": [
     "slide-1.jpg",
@@ -13,34 +13,34 @@
   ],
   "content": {
     "label": "ERRORE DA EVITARE",
-    "topic": "Errore da evitare sul lavoro",
-    "bgWord": "€",
+    "topic": "CCSE e cittadinanza spagnola",
+    "bgWord": "CCSE",
     "cover": {
-      "title": "Paghi per un lavoro? *Perdi soldi*",
-      "subtitle": "Per l’intermediazione, la legge tutela la gratuità per chi cerca lavoro."
+      "title": "Rimandi la CCSE? *Perdi la sessione.*",
+      "subtitle": "Un’iscrizione tardiva può spostare più avanti la pratica di cittadinanza."
     },
     "s2": {
-      "title": "Cosa dice *la legge*",
-      "body": "In tutta la Spagna, l’artículo 42.4 della Ley 3/2023 de Empleo garantisce la gratuità dell’intermediazione per chi cerca lavoro. È in vigore dal 2 marzo 2023. Pagare una quota per essere collocati può farti perdere quei soldi: non confondere l’intermediazione con altri servizi facoltativi.",
+      "title": "Perché perdi *tempo*",
+      "body": "Il Real Decreto 1004/2015, art. 6, prevede la CCSE tra le prove per la cittadinanza per residenza, salvo esenzioni. Per la convocatoria di novembre 2026, le iscrizioni si sono chiuse il 5 novembre e la prova è il 26 novembre: arrivare tardi significa perdere quella sessione e puntare alla successiva.",
       "tear": {
         "type": "documento",
-        "title": "Da mettere per iscritto",
+        "title": "La prova in breve",
         "lines": [
-          "Nome completo dell’agenzia",
-          "Importo scritto della quota",
-          "Servizio indicato nel preventivo"
+          "60% Costituzione e organizzazione amministrativa e territoriale",
+          "40% cultura, storia e società spagnole",
+          "Risposte chiuse, tutte con lo stesso valore"
         ],
-        "hi": 1
+        "hi": 0
       }
     },
     "s3": {
-      "title": "Fai questi *passi*",
+      "title": "Pianifica con *anticipo*",
       "items": [
-        "Cerca annunci su *Empléate del SEPE* o *EURES*, portali ufficiali per trovare offerte.",
-        "Fatti indicare per iscritto *servizio, importo e destinatario* prima di firmare o pagare.",
-        "Conserva *annuncio e messaggi*; segnala la richiesta al *Servicio Público de Empleo* della tua Comunidad Autónoma."
+        "Segna il *23 novembre 2026*: apre l’iscrizione CCSE 2027 presso l’Instituto Cervantes.",
+        "Per la convocatoria di gennaio 2027, iscriviti entro il *7 gennaio 2027*: la prova è il *28 gennaio 2027*.",
+        "Preparati con il manuale ufficiale CCSE 2026 dell’Instituto Cervantes."
       ],
-      "save": "Salva il post per la tua ricerca di lavoro."
+      "save": "Salva il post: ti servirà quando aprono le iscrizioni."
     }
   }
 }
