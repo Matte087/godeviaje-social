@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-15",
   "theme": "domenica",
   "themeName": "Errore da evitare",
   "topic": "CCSE e cittadinanza spagnola",
   "argomento": "Iscrizione tardiva alla CCSE",
-  "caption": "La CCSE è una delle prove previste per la cittadinanza spagnola per residenza, salvo esenzioni. Il Real Decreto 1004/2015, art. 6, ne definisce anche gli argomenti: 60% Costituzione e organizzazione amministrativa e territoriale, 40% cultura, storia e società spagnole. Per la convocatoria di novembre 2026, le iscrizioni si sono chiuse il 5 novembre e la prova è il 26 novembre. Per il 2027, le iscrizioni aprono il 23 novembre 2026: la sessione di gennaio chiude il 7 gennaio 2027 e si svolge il 28 gennaio. Segnati le date per tempo e prepara la prova con il manuale ufficiale CCSE 2026 dell’Instituto Cervantes.\n\nFonte: Instituto Cervantes, fechas y plazos CCSE 2026-2027 (cervantes.org)\n\nTutte le guide: link in bio\n\n#vivereinSpagna #cittadinanzaspagnola #CCSE #trasferirsiinSpagna",
+  "caption": "La CCSE è una delle prove previste per la cittadinanza spagnola per residenza, salvo esenzioni. Dal 23 novembre 2026 apre l’iscrizione alle sessioni 2027 dell’Instituto Cervantes e ogni sessione chiude 3 settimane prima della prova. Per gennaio: iscrizione entro il 7 gennaio 2027, prova il 28 gennaio 2027. Per febbraio: iscrizione entro il 4 febbraio, prova il 25 febbraio 2027. Se perdi la scadenza passi alla sessione successiva, di solito un mese dopo. Le sessioni sono mensili, tranne agosto e dicembre. Il Real Decreto 1004/2015, art. 6, ne definisce anche gli argomenti: 60% Costituzione e organizzazione amministrativa e territoriale, 40% cultura, storia e società spagnole.\n\nFonte: Instituto Cervantes, fechas y plazos CCSE 2027 (examenes.cervantes.es)\nDate ufficiali: https://examenes.cervantes.es/es/ccse/inscribirse\n\nTutte le guide: link in bio\n\n#vivereinSpagna #cittadinanzaspagnola #CCSE #trasferirsiinSpagna",
   "imageKind": "nessuna",
   "slides": [
     "slide-1.jpg",
@@ -16,12 +16,12 @@
     "topic": "CCSE e cittadinanza spagnola",
     "bgWord": "CCSE",
     "cover": {
-      "title": "Rimandi la CCSE? *Perdi la sessione.*",
-      "subtitle": "Un’iscrizione tardiva può spostare più avanti la pratica di cittadinanza."
+      "title": "Iscrizione CCSE in ritardo? *Un mese perso.*",
+      "subtitle": "Ogni sessione chiude 3 settimane prima: perdi la scadenza e aspetti la successiva."
     },
     "s2": {
       "title": "Perché perdi *tempo*",
-      "body": "Il Real Decreto 1004/2015, art. 6, prevede la CCSE tra le prove per la cittadinanza per residenza, salvo esenzioni. Per la convocatoria di novembre 2026, le iscrizioni si sono chiuse il 5 novembre e la prova è il 26 novembre: arrivare tardi significa perdere quella sessione e puntare alla successiva.",
+      "body": "Dal *23 novembre 2026* apre l’iscrizione alle sessioni CCSE 2027 dell’Instituto Cervantes. Ogni sessione chiude 3 settimane prima della prova: per quella del *28 gennaio 2027* si chiude il *7 gennaio*. Arrivi dopo? Passi alla sessione del *25 febbraio*.",
       "tear": {
         "type": "documento",
         "title": "La prova in breve",
@@ -36,11 +36,12 @@
     "s3": {
       "title": "Pianifica con *anticipo*",
       "items": [
-        "Segna il *23 novembre 2026*: apre l’iscrizione CCSE 2027 presso l’Instituto Cervantes.",
-        "Per la convocatoria di gennaio 2027, iscriviti entro il *7 gennaio 2027*: la prova è il *28 gennaio 2027*.",
-        "Preparati con il manuale ufficiale CCSE 2026 dell’Instituto Cervantes."
+        "Segna il *23 novembre 2026*: apre l’iscrizione alle sessioni 2027.",
+        "Gennaio: iscrizione entro il *7 gennaio 2027*, prova il *28 gennaio 2027*.",
+        "Febbraio: iscrizione entro il *4 febbraio*, prova il *25 febbraio 2027*.",
+        "Le sessioni sono *una al mese*, tranne agosto e dicembre: chiudono sempre 3 settimane prima."
       ],
-      "save": "Salva il post: ti servirà quando aprono le iscrizioni."
+      "save": "Salva il post: ti servirà il 23 novembre."
     }
   }
 }
