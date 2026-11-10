@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-10",
+  "theme": "martedi",
+  "themeName": "Burocrazia facile",
+  "topic": "Burocrazia facile",
+  "argomento": "Scadenza della Renta 2025",
+  "caption": "La Renta si presenta ogni anno, ma le date precise variano: per la dichiarazione IRPF dell’esercizio 2025, la campagna è stata dall’8 aprile al 30 giugno 2026, anche se il risultato era da pagare o a rimborso. Al 10 novembre 2026 quella finestra è chiusa. La dichiarazione è il Modelo 100 e si prepara tramite Renta WEB. Se l’hai già inviata, puoi accedere con Cl@ve alla Sede electrónica de la Agencia Tributaria e aprire «Consulta de declaraciones presentadas» per ritrovare il documento e consultarne lo stato.\n\nFonte: Orden HAC/277/2026, de 25 de marzo (BOE) (boe.es)\n\nTutte le guide: link in bio\n\n#VivereInSpagna #BurocraziaSpagnola #Renta #TrasferirsiInSpagna",
+  "imageKind": "nessuna",
+  "slides": [
+    "slide-1.jpg",
+    "slide-2.jpg",
+    "slide-3.jpg"
+  ],
+  "content": {
+    "label": "BUROCRAZIA FACILE",
+    "topic": "Burocrazia facile",
+    "bgWord": "100",
+    "cover": {
+      "title": "Renta 2025: la *scadenza* esatta",
+      "subtitle": "Il calendario della dichiarazione IRPF, in parole semplici."
+    },
+    "s2": {
+      "title": "La *data* decisiva",
+      "body": "Per la Renta 2025, la dichiarazione IRPF (Modelo 100) si presentava dall’8 aprile al 30 giugno 2026, qualunque fosse il risultato. Al 10 novembre 2026, la campagna è chiusa.",
+      "tear": {
+        "type": "documento",
+        "title": "Promemoria Renta",
+        "lines": [
+          "Canale digitale: Renta WEB",
+          "Prima: conferma domicilio fiscal",
+          "Poi: rivedi i dati familiari"
+        ],
+        "hi": 0
+      }
+    },
+    "s3": {
+      "title": "I *passi* per ritrovarla",
+      "items": [
+        "Per una dichiarazione già inviata, entra nella Sede electrónica de la Agencia Tributaria con Cl@ve e apri «Consulta de declaraciones presentadas».",
+        "Seleziona l’esercizio 2025 per vedere il Modelo 100 presentato e il relativo stato."
+      ],
+      "save": "Salva il post per ritrovare date e procedura."
+    }
+  }
+}
